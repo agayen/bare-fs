@@ -2,6 +2,8 @@
 
 Native file system for Javascript.
 
+
+
 ```
 npm i bare-fs
 ```
